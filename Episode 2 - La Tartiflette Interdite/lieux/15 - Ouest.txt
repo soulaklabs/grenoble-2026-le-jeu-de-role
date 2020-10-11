@@ -1,0 +1,20 @@
+
+# deuxième nuit
+
+
+ L'Ouest a brulé le 2 mai dernier.
+
+ IL n'y pa personne mais vous trouvez une carte de visite pour la 
+ startup une carte de la start-up PRO-PREDICTION
+
+PRO-PREDICTION, c'est une plateforme d'IA pour vous aider dans votre aventure.
+Accessible par téléphone pour seulement 2 Cairn, l'IA vous donne un indice.
+
+
+   * si vous l'appelez, il vous donnez un indice.
+
+   "Bonjour, et bienvenue sur la plateform PRO-PREDICTION"
+   Pour recevoir un conseil de l'IA, tapez 1.
+   => vous êtes aidé par l'IA
+   Sinon, tapez 2.
+   => opérateur humain

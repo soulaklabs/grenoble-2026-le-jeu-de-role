@@ -1,0 +1,91 @@
+# ST Micro
+
+
+Prenant le bus TransiIsère, vous arrivez à Crolles, à l'extrème Orient des terres détenue par la ville de Grenoble.
+
+Au delà de Crolles, se dresse un immense mur de scenarium, encore en construction mais déjà efficace, qui sépare le bas Grésivaudan de la dangereuse Savoie.
+
+Vous voyez une énorme usine de semi-conducteur, ST MicroElectronique.
+
+
+Malheureusement, l'endroit est gardé par 3 vigiles armé de matraques téléscopique.
+
+    Un vigile a 3 PDV, attaque matraque de niveau 13 qui fait un dégat.
+
+
+   Que faites-vous ?
+
+
+- les joueurs interrogent les vigiles ? Ils les dirigent vers l'accueil.
+
+Les vigiles ne sont en fait pas vraiment aggressifs si les joueurs disent qu'ils viennent pour du support / réparation.
+
+
+# Accueil
+
+
+Vous arrivez à l'accueil de ST Micro. C'est un batiment séparé de l'usine elle-même.
+Une hotesse vous demande ce que vous venez faire là.
+
+
+(normalement les joueurs viennent pour analyser les STM32m de leurs noix)
+
+L'hotesse appelle un ingénieur support.
+
+Un programmateur arrive
+C'est un jeune homme qui est habillé d'un hoodie et tongs.
+
+
+Que lui montrez-vous ?
+
+- la Noix du Clivage
+  "Ah. Alors si j'en crois le programme qui est dessus, la Noix du Clivage utilise les processeurs magiques du STM32m pour effectivement détecter un champ magique de gauche ou de droite.
+  Mais la noix du Clivage enregistre aussi votre position et la transmet sur une IP cryptée.
+
+- la Noix Connectée.
+  "Visiblement c'est un programme d'usine par défaut, qui fait une sorte de talkie-walkie. Mais attention à votre vie privée, car il semble que la Noix Connectée enregistre aussi de manière permanente ce que vous dites. Le destinataire est inconnu, la destination est une IP cryptée."
+  (c'est une IP 46.218.50.200, c'est grenoble.fr
+   Ils vont croire que c'est la mairie mais c'est le palais des sports héhé)
+
+- la Noix de Polarité
+   "On dirait qu'elle a deux fonction : elle change la polarité du champ magique.
+   Gauche devient Droite, Droite devient Gauche,
+   magie du Grésivaudan devient magie des ordinateurs et vice-versa.
+   C'est malin mais c'est pas très utile. Ca n'agit que sur le champ magique et pas sur les convictions.
+   Ca c'est si on appuie sur le bouton pression numéro 1.
+
+   Par contre elle a été modifiée on dirait... attendez...
+   Alors ca c'est bizarre. Il y a une backdoor pour pouvoir s'y connecter depuis l'IP 46.218.50.200.
+   Avec cette noix connectée, quelqu'un peut se servir de la backdoor pour pouvoir utiliser votre appareil à distance, et même se connecter aux appareils proche...
+
+
+   - la Noix de Polarité après l'attaque de Campus Grenoble
+     "tiens on peut savoir ce qui a transité comme commande
+     Ce STM32m a servi a reprogrammer un appareil de broadcast radio, de manière à polariser de la magie de gauche en magie survivaliste.
+     C'est vraiment très astucieux cette backdoor!"
+
+     Découverte de la magie Survivaliste (voir chapitre de la Gare)
+     Les joueurs gagnent tous un Point de Héros.
+
+
+Vous pouvez demander à l'ingénieur de reprogrammer les noix pour 3 Cairn.
+Seul un spécialiste du STM32m peut la reprogrammer.
+
+Le STM32m dispose de plusieurs fonctionnalités:
+  - détecteur de champs magiques de toutes les écoles
+  - pouvoir réaliser un sort de Rang 1
+  - encoder et decoder la voix
+  - émettre un bruit
+  - micro
+  - géolocalisation
+  - transmission à l'Intranet de Grenoble vers une IP ou un nom
+  - appareil photo
+  - se connecter à l'Internet public moyennant 1 Cairn
+
+
+
+- "DarkAdvisor"?
+
+  Ah vous cherchez DarkAdvisor? C'est un ancien ici. Il aimait bien utiliser ce pseudo mais au travail c'était tout simplement Julien Pommier.
+  Il était programmateur sur processeur ARM magiques, dont le premier STM32m.
+  A l'époque il habitait au 31ème Tour Vercors. C'est quelqu'un de très secret.

@@ -1,0 +1,63 @@
+(normalement les joueurs auront des intentions assez hostiles)
+
+Vu re-empruntez les tunnels terrogauchistes et vous dirigez vers le parking souterrain du Palais des Sports.
+
+Lorsque vous arrivez, il y a très peu de monde.
+Des restes de tartiflette et de vin blanc restent sur la table à manger.
+Il y a eu un repas récemment.
+
+
+ * si les joueurs fouillent les lieux
+   => il trouvent un monocycle électrique et un reblochon pas entamé qui restore 3PDV
+
+Des militant vous apprennent que 
+- Eric Piolle n'est pas là 
+- Bruno de Lescure et Popo sont parti rejoindre Antoine Back
+- Antoine Back / SuperAdjoint38 est en voyage diplomatique en Savoie
+- DarkAdvisor est chez lui mais on ne sait pas vraiment où est chez lui, c'est tenu secret et ignoré par les militants.
+- mais Seyssins420 est là (il s'agit de Jerome Safar)
+
+
+Celà dit, Vous arrivez dans la pièce souterraine qui sert de bureau à Jerôme Safar. Il semble inquiet et apeuré de vous voir.
+
+(Les joueurs peuvent apprendre les informations suivantes:)
+
+* Ou est Eric Piolle ?
+
+   "Je voulais vous en parler quand vous êtes venus. Mais c'est bizarre qu'on ne croise jamais Eric Piolle. Je ne l'ai pas vu du tout depuis le début de la compagne. Bien que ca soit un adversaire, j'aimais bien sa manière de s'habiller."
+
+* Ou sont les autres membres de la liste.
+
+   "Popo, Bruno et Antoine - enfin, SuperAdjoint38 - m'ont dit qu'ils partaient en voyage diplomatique pour la Savoie. Je crains qu'ils ne préparent une alliance avec le sombre royaume de Savoie.
+   C'est bizarre, car on avait tous voté contre à l'Assemblée Générale de mars."
+
+* Pourquoi la radio émet des émissions Survivalistes
+
+   "Ecoutez, je ne comprends pas du tout ce qui se passe. Ca ne devait pas se passer comme ça. La radio devrait émettre
+   J'ai comme l'impression que vous avez été dupés... et moi avec vous.""
+
+
+* autre chose à savoir?
+
+   "Nous autres gens de gauche avons gardé d'énormes quantités de Chartreuse non-radioactive en stock en siphonnant les reserves des bars par les souterrains.
+   Il y a de quoi faire exploser tout une Communauté de Commune !
+   Je commence à me dire que mes collègues de liste sont vraiment des terroristes!"
+
+(Si le joueurs sont aggressifs envers lui)
+
+Jerome Safar est apeuré, il dit tout ce qu'il sait.
+
+
+## Parler à Jerome Safar /   (jerome Safar n'est PAS dans le complot Barrau, ses comparses ont prévu de l'éliminer)
+
+- ou est DarkAdvisor
+ 
+   Il tiens son adresse secrète! Peut-être vous trouverez des informations sur Internet, au Totem.
+
+
+
+
+
+
+
+

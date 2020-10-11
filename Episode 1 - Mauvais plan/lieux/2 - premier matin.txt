@@ -1,0 +1,36 @@
+Vous vous réveillez en sursaut au bruit d'un énorme explosion.
+Un nuage d'odeur de plante médicinale a envahi la ville.
+
+Il semble que l'attentat viennent d'avoir lieu station Oxford.
+
+Vous vous dépéchez d'y aller en Métro vélo.
+
+
+
+Arrivés sur les lieux, 
+
+Les corps de dizaines d'ingénieur et thésards décharnés et brulés au troisième degré se tordent de douleur et succombent tandis que les secours arrivent.
+
+Vous voyez aussi un pigeon passer avec un air concerné.
+
+Un cordon de CRS vous barre la route, tandis que vous voyez distinctement un homme vétu de noir, au milieu des décombre, s'arracher un dossier avec un homme de 35 ans lourdement blessé. Il semble être passé inapercu au milieu du carnage.
+
+Celui-ci crie: "c'est ma thèse, lachez ma thèse ! Elle est significative"
+
+Que faites vous?
+
+  *  Combat contre 3 CRS élémentaire de feu, de glace, et d'air.
+
+  Chaque CRS a 3 PV:
+
+     - élémentaire de feu: compétence 14 coup de baton enflammé   2 PV
+     - élémentaire de glace: compétence 13 coup de matraque gelé  2 PV
+     - élémentaire d'air: compétence 10 pète dessus 1 PV    -3 aux jets du joueur  2 PV
+
+  * Ensuite course-poursuite avec l'homme en noir, qui laisse tomber un badge
+    "Balance Sécurité"
+    * si vous l'attrapez vivant: il se tue en avalant un nanopoison et en criant "je ne donnerai pas d'indice, hahaha". Il laisse tomber une thèse intitulée "Portail dimensionnels : vers une stabilisation du champ magique", dont l'intérieur a été détruit à l'aide de magie de droite.
+  * Si l'homme est vivant, il dit juste qu'il s'appelle Bernard le Thésard... je suis venu récupérer mon manuscrit, puis meurt.
+  * Sinon, il laisse tomber sa carte d'identité en mourant. sur la carte est écrit: Bernard le Thésard.
+
+=> quartier libre

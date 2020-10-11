@@ -1,0 +1,136 @@
+
+# AVANT L'EXPLOSION DU MUR
+
+La Place du Tribunal est plutôt vide.
+C'est une belle place avec une statue imposante au milieu qui représente le chevalier Bayard.
+
+
+* fouille: vous trouvez un tag marqué "fdp" sur la statue.           
+  et une bouche d'égout (qui ramène dans le réseau de tunnel)
+
+
+# APRES L'EXPLOSION DU MUR
+
+
+Il est 17h30.
+
+Quand vous arrivez à la place du Tribunal, vous voyez que des troupes Voironnaises ont pris possession du lieu en essayant de la barricader.
+
+Les 4 entrées de la place sont gardés par 3 soldats voironnais chacune.
+  ( - boucliers absorbent 1 dégat, 
+   - tazers 4 dégats immobilisent, niveau 15
+   - noix-shuriken 6 dégats, niveau 12)
+
+La place est aussi remplis de Grenoblois de l'hypercentre qui ont peur et commencent à faire des barbecues à l'arrachée. Si bien qu'il y a bien plus de civils que de soldats.
+Les grenoblois sont 200 et possèdent 1 PDV et peuvent taper du point (niveau 10, 1 dégat).
+
+On attend les troupes savoyardes dans moins de 15 minutes.
+
+(Les joueurs peuvent passer le barrage sans problème)
+
+
+# DEBAT
+
+Vous voyez arriver la totalité de la liste Popo+Piolle
+Piolle y compris, ainsi que 6 artilleurs savoyards et un crétin géant
+  (artilleurs savoyard 2PV
+   - hache 4 dégats immobilisent, niveau 15
+   - lancer de fromage 2 dégat, niveau 15)
+  (crétin des alpes géant 10PV
+   - attaque goitre niveau 10 6 dégats)
+
+Celà dit, alors que vous vous attendiez à un grand combat final,
+c'est plutôt un grand débat final.
+Chaque candidat préfère obtenir l'estime des Grenoblois plutôt que leur 
+
+(Eric Piolle à la peau noire (c'est un Eric Piolle nécromancé))
+
+
+Et là en gros c'est un match d'éloquence et/ou baston générale.
+#teamsavoie vs #teamvoiron
+
+
+Ca commence par les politiques qui parlent (ils ne marquent pas de point si les joueurs les interrompent)
+
+Discours de Piolle (1 point pour #teamsavoie):
+
+  Grenoble, est une ville résiliente. Face aux attaque du Voironnais, il nous faut - aujourd'hui - s'organiser face à la disparition de l'Etat.
+  Que l'on soit vivant ou mort-vivant, il est important aujourd'hui, 
+  de vivre ensemble. C'est ce projet que nous portons, avec la liste
+  Popo+Piolle, et nous n'avons rien à voir avec Aurélien Barrau !
+  Notre projet, c'est de faire de Grenoble une ville ouverte sur le monde.
+  C'est ce que nous avons fait avec le vélo.
+
+Discours de Polat: (2 points pour #teamvoiron)
+  Sous des dehors collectivistes et nonchalants, c'est en fait la tyrannie qui s'exprime.
+  Le plus important, c'est encore la liberté. Rien ne pourra être garanti aux grenoblois si nous sommes un protectorat. Oui je parle de nous, car le Grand Voiron et Grenoble ont un destin en commun.
+  La Savoie fera peser un impot terrible, qui contraindra la liberté d'entreprendre pour longtemps. 
+
+Discours de Popo (1 point pour #teamsavoie):
+
+  Grenoble ou Chambéryyyy c'est un peu pareil. Nous sommes dans la même
+  vallée, au bord de la même rivière. Il est normal de s'entendre, comme des amis qui aiment aller à la pêche ensemble.
+
+Discours d'Aurélien Barraud (1 point pour #teamsavoie)
+
+   Bonjour. Moi je suis astrophysicien à Grenoble.
+   Face à la catastrophe qui s'annonce, rien n'est pire que de ne rien
+   faire. Nous allier à la Savoie, c'est déjà faire quelque chose, 
+   et c'est très peu à l'échelle de l'espèce.
+   Par ailleurs dans cette révolution écologique, il y a des problèmes autrement plus urgent, comme l'autonomie alimentaire des Grenoblois. Mais encore une fois, je ne suis pas un prophète. La terre va continuer
+   d'exister, mais il faut nous adapter. Sauver le vivant, c'est aussi expérimenter avec le vivant. C'est _rationnel_ de penser ça.
+
+# APRES LES DISCOURS
+
+#teamsavoie perd 2 points si la statue de Bayard est détruite.
+Ce qui arrive par le soutterain dans une explosion qui emporte Polat qui explose en gouttelettes vertes.
+
+Vous pouvez lancer des arguments pour ou contre une des équipes, et haranguer les grenoblois. Par example objecter que le Piolle a la peau noire est un mort-vivant.
+
+Que dites-vous au Grenoblois ?
+
+Que faites-vous?
+
+
+Suite au débats / combats qui ont lieu.
+
+# SI #TEAMSAVOIE GAGNE
+
+Les Grenoblois sont acquis à la Savoie qui envahit tout Grenoble. 
+Vous voyez Aurélien Barrau s'avancer sur la place du Tribunal et abattre les derniers restes de la statue du Chevalier Bayard.
+
+Popo l'accompagne, ainsi que le Piolle mort-vivant.
+Les soldats savoyard arrivent par centaines.
+
+Grenoble est maintenant contrôllée par la reine d'Annecy.
+
+FIN
+
+
+
+# SI #TEAMVOIRON GAGNE
+
+Les Grenoblois sont acquis au concept du Grand Voiron, dont les troupes équipées de Saint Marcellins envahissent tout Grenoble. 
+
+Vous voyez Julien Polat s'avancer sur la place du Tribunal et s'agenouiller devant la statue du Chevalier Bayard.
+
+Popo, Piolle et Aurélien Barraud sont en fuite.
+Les soldats voironnais arrivent par centaines.
+
+Grenoble est maintenant contrôllée par Julien Polat, maire à vie de Voiron.
+
+FIN
+
+
+# SI AUCUN NE GAGNE (les aventuriers ont tués tout le monde ?)
+
+Les Grenoblois sont acquis à votre cause et refusent le dilemme de choisir entre un envahisseur ou l'autre.
+
+Malheureusement pour vous, les troupes savoyardes et voironnaises se battent dans toute la ville est commettent d'innombrables exactions.
+
+Popo, Piolle, Aurélien Barraud et Julien Polat sont en fuite.
+
+Malheureusement, après des jours de combat, la population se retourne contre vous alors que vous aviez de très bonnes idées pour leur indépendance, et la Savoie finira par avoir le dessus par l'usage de la force. Honnis de tous, vous êtes mis en fuite et déclarés hors-la-loi.
+
+
+FIN

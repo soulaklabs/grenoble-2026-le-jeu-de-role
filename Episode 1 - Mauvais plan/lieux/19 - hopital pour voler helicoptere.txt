@@ -1,0 +1,8 @@
+Vous vous rendez au CHU avec la ferme intention de voler l'hélicoptère.
+
+Le CHU jouxte maintenant une grande galerie commerciale ou les malades peuvent acheter des sodas et se restaurer.
+
+L'hélicoptère est guardé par des soignants centristes, insensible à la magie.
+
+- compétence médicament niveau 17, dégat 2, 2 PV peut plus parler pendant la durée du combat
+- compétence bistouri niveau 12, dégat 3, 2 PV

@@ -1,0 +1,61 @@
+OUEST 
+
+En suivant le souterrain Nord, vous arrivez à la boutique gauchiste.
+
+
+La caissière vous explique:
+
+  Bonjour et Bienvenue à la boutique des gaucho-terroristes!
+
+  Tout ce qui est vendu ici permet de financer les activités de la liste.
+
+  Vous pouvez acheter avec une adhésion à notre association pour 1 Cairn.
+  Puis vous pouvez acheter les objets suivants.
+
+  * Bière qui restore 3 pour 1 Cairn.
+  * un récepteur radio pour 2 Cairn.
+  * Tatouage pour 5 Cairn.
+  * Livre d'Aurélien Barrau pour 1 Cairn.
+  * Appareil photo avec zoom pour 10 Cairn.
+  * Et des tracts gratuits.
+  * STM32m dans un étui noix pour 2 Cairn.
+
+* En cas de braquage: il y a 10 Cairns.
+  Vendeuse à un couteau qui inflige 4, niveau 12. Elle même a 2 PV.
+  Pendant le combat si les joueurs font du bruit, un garde-gauchiste intervient, qui vous fait culpabiliser en disant qu'on ferait mieux de pas se tirer dans les pattes.
+  Niveau 18, inflige 2 dégat avec ses dreads.
+
+* Lire le livre d'Aurélien Barrau
+
+  Vous lisez seulement la préface car le bouquin à l'air passionant mais long. Aurélien conclut le livre en disant que l'essence du survivalisme est de repousser la mort de l'espèce, mais aussi la mort de l'individu.
+  La dernière phrase est:
+  "L'avènement du survivaliste est un changement paradigmatique, que nous le voulions ou non, qui passera par la maitrise par l'Homme de son destin corporel."
+
+* récepteur radio: voir chapitre 3
+
+
+* Lire le tract
+
+  => Voir Chapitre 8
+
+  
+
+* Noix avec STM32m: "les outils connectés de demain seront magique."
+
+    C'est un modèle similaire que les 3 noix qu'on vous a donné.
+    Ce modèle la est vierge et ne fait rien.
+
+    C'est une noix avec un processeur magique STM32m, fabriqué à Crolles, non loin de Grenoble.
+
+    Le STM32m dispose de plusieurs fonctionnalités:
+      - détecteur de champs magiques de toutes les écoles
+      - pouvoir réaliser un sort de Rang 1
+      - encoder et decoder la voix
+      - émettre un bruit
+      - micro
+      - géolocalisation
+      - transmission à l'Intranet de Grenoble vers une IP ou un nom
+      - appareil photo
+      - se connecter à l'Internet public moyennant 1 Cairn
+
+    Malheureusement, vous voyez bien que sans un entrainement particulier il est très difficile de programmer ces noix.

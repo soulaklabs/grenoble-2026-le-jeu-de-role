@@ -1,0 +1,19 @@
+# Bastille
+
+En arrivant à la Bastille. Vous constatez que les oeufs ont été démontés et le cable enlevé.
+
+Que faites-vous ?
+
+Vous décidez d'y aller à pied.
+Malheureusement, en arrivant à la fontaine du lyon, vous ne pouvez que constater qu'un mur de scenarium infranchissable se tient devant.
+
+Il est impossible de passer.
+
+Deux tags sont inscrits sur le mur, pendant que vous constatez qu'une silouhette gracile vous suit.
+Les tags sont inscrits dans la langue des tags.
+
+- le premier tag dit: "Grenoble ville mauvais plan"
+- le deuxième tag est une addresse, le 2 rue Pierre Duclot, 38000 Grenoble. Il s'agit de l'adresse du Docteur D.
+
+
+Interactions avec la silouhette gracile: il s'agit de Popo => popo.txt

@@ -1,0 +1,107 @@
+# ARRIVEE A EVE
+
+
+En vous rendant à EVE, vous constatez que le batiment est surveillé par des policiers qui filtrent les personnes à l'entrée.
+
+Les forces de l'ordre vous demande un laissez-passer.
+
+"Messieurs. Vous ne travaillez pas ici. C'est uniquement les étudiants ici."
+
++ un véhicule anti-émeute.
+
+
+Pour passer
+  - montrer que vous travaillez pour la municipalité Carignon
+    en montrant le MMS de François Jacq
+
+  - se déguiser en étudiants ?
+
+  - crocheter la porte de derrière de EVE qui n'est pas gardée
+  
+  - battre les troupes non-magiques
+
+    Policier 1 :
+       Matraque 2 dégats (niveau 18)
+       Bouclier -1
+
+     Policier 2 :
+       Canon à eau 3 dégats (niveau 13) tire deux fois
+       dans un Véhicule blindé
+
+
+# Dans Radio Campus
+
+
+Vous arrivez finalement dans les locaux de Campus Grenoble. L'endroit sent la bière et la cigarette, et des enceintes font 
+
+Jérémie, coordinateur de la radio vous accueille.
+"Ah vous avez passé le barrage. Je vous fait visiter ?"
+  (à combattre, il donne des coups d'agrapheuse dégat 1 niveau 19, et votre doigt est agrafé à la table)
+
+"Nous on a pas changé depuis 32 ans, ont ne fait que des émissions de gauche. Je vois pas pourquoi on nous accuse de faire de la propagande de droite."
+
+(Popo appelle les joueurs par la Noix Connectée et leur demande de visiter la salle des machines)
+
+Jérémie a pas trop envie alors il faut le convaincre.
+
+
+
+
+
+# Salle des machines
+
+    Tout à l'air normal, faites un jet
+    (ou alors les joueurs peuvent détecter Magie de Droite)
+
+    Vous remarquer qu'il manque une vis à lémetteur RNT.
+
+    (Que les joueurs prennent la noix ou pas, le hacking a lieu et Popo/DarkAvisor contrôle l'émetteur. Ils s'en servent pas tout de suite
+    Les appareil de radio campus sont commandés depuis l'IP 46.218.50.200
+    mais les joueurs n'en savent rien).
+
+    Jérémie réagit du genre "si c'est pas cassé je préfère rien toucher. on a déjà galéré pour que ca tombe en marche".
+    Mais en insistant il révèle que les gens ont commencé à dire qu'ils étaient une radio de droite à partir du moment où l'émétteur de radio numérique est arrivé en 2020.
+
+
+    Que faites-vous?
+
+A l'issue de cette action Popo félicite les joueurs
+
+ "Bravo, nous avons pu désactiver le convertisseur de droite.
+ La radio est maintenant politique neutre, ce qui est ce que nous défendons. Car les idées c'est bien mais il y en a beaucoup trop."
+
+* si les joueurs regardent l'ordinateur de Jeremie / detectent les conflits d'intéret
+
+  Il trouvent un email signé "DarkAdvisor" qui promet à Jérémie une forte subvention en Cairn si il leur laisse visiter la salle des machines.
+  Mais Jérémie refuse car il dit que ca marche alors faut pas y toucher.
+
+
+# PARTIR
+
+  Alors que vous ressortez de EVE discrètement (qui est entourée de dizaines de CRS), vous recevez un MMS sur votre ligne aventurier-freelance.
+
+  Julien Polat souhaite vous rencontrer à la Gare de Grenoble.
+
+  Le message sur sa story dit
+
+  "Chers aventuriers.
+
+   Par ma qualité de maire à vie du Grand Voiron, j'arrive dans 1h à la Gare de Grenoble pour succéder à feu Alain Carignon.
+   Je sais que vous avez été en conflit avec lui dans l'épisode précédent, mais je ne vous en porte pas griefs, et bien au contraire, j'aimerais vous rencontrer afin de vous confier une mission de la plus haute importance.
+
+   Rejoignez-moi immédiatement, car l'avenir de Grenoble et même du Grésivaudan est entre vos mains.
+   "
+
+
+Optionnel maintenant ou plus tard:
+
+(Les joueurs sont suivis par un motard, armé d'une barre de fer dégat 5 + assome, niveau 15
+
+L'homme est grand, porte un blouson noir non-griffé et des habits pour faire de la moto. Il vous suit au pas.
+
+Si jamais ils s'en rendent compte et veulent le faire parler, l'homme croque une pastille de cyanure au LSD et meurt immédiatement en disant "Grenoble doit regarder vers l'Est"
+néanmoins sur lui il dispose d'un téléphone avec un SMS de DarkAdvisor qui dit "ne perd pas les blaireaux de vue"
+
+et 10 Cairn de shit sur lui
+
+)

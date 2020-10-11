@@ -1,0 +1,23 @@
+Sort rang 1: 
+Detection de la WiFi.
+=> Vous pouvez dire si il y a de la WiFi (ou du WiFi).
+
+Sort rang 1: 
+Générateur.
+=> Vous pouvez infliger des décharges electrique (1 dégat, niveau 16) et alimenter des petits appareils.
+
+Sort rang 2: 
+Piratage.
+=> Vous pouvez tenter d'intercepter des informations contenues dans un système, mais pas les modifier. (niveau 17)
+
+Sort rang 3: 
+Pluie de STM32.
+=> Une pluie de petits processeurs tombe sur l'adversaire, ce qui lui fait mal. (2 dégats, niveau 15)
+
+Sort rang 4:
+Collecter l'impot+. 
+=> Vous pouvez accéder à Internet par la pensée, mais à un débit très faible et ca vous fatigue.
+
+Sort rang 5: 
+Reprogrammation
+=> Vous pouvez hacker n'importe quoi et changer ce que fait un ordinateur. Mais ca prend du temps. (niveau 17)

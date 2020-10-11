@@ -1,0 +1,39 @@
+OUEST 
+
+Reconverti en auberge, l'Ouest est maintenant sur AirBNB.
+Le patron Alex continue de se tenir derrière son bar machinalement, mais il n'y a plus de client.
+Vous dormez à la cave de l'Ouest, qui est immense.
+
+L'endroit est recouvert de vielles affiches qui laissent entrevoir un ancien monde grenoblois, fait d'égalité, de rires et de libertés publiques.
+
+ACTIONS POSSIBLE
+
+  * dormir et récuper sa vie, mais un jour passe (1 avril au 2 avril)
+  
+  * acheter une boisson: 1 cairn => une bière. Boire une bière restaure une capacité à fond. Mais il faut boire en vrai.
+  * parler au Barman:
+    - Je m'appelle Alex. j'ai ouvert ce bar il y a 15 ans. La ville a beaucoup changé. C'est un peu comme si tout le monde était devenu de droite petit à petit. Je ne l'explique pas.
+
+  * Internet? 
+    => non, ca a été coupé en 2023 sur toute la ville. Un internet très limité est disponible.
+  * autres bars?
+    Le Café du Weird, deux anciens bars qui ont fusionnés. mais c'est un bar d'extrème droite maintenant.
+  * Bernard le thésard: c'était un bon client, mais il était plus souvent au Café du Weird.
+    Il a du faire de drôle de rencontres là-bas.
+
+
+  * fouille: exemplaire du Postillon de 2024.
+
+    + article sur la main-mise de la municipalité sur les bars.
+      D'après certaines sources, les bars et restaurants de la région doivent verser 1% de leur revenus sur un compte en Suisse appartenant à une société nommé Sagittaire Capital.
+
+
+ => Premier matin
+
+# deuxième nuit
+
+
+ Si vous y allez pour une deuxième nuit, l'Ouest a brulé. Alex a disparu.
+
+   Vous trouvez dehors l'exemplaire du Postillon dans les flammes.
+

@@ -1,0 +1,9 @@
+Tirer D7
+
+1 => vous ne trouvez rien
+2 => vous trouvez deux objets
+3 => 5 Cairn
+4 => une bière locale pas entamée (redonne 2PV)
+5 => monocycle rouillé, valeur 1 Cairn
+6 => une carte de la start-up PRO-PREDICTION
+   * si vous l'appelez, il vous donnez un indice.

@@ -1,0 +1,75 @@
+Vous arrivez au batiment Totem.
+
+Une hotesse d'accueil plantureuse vous accueille.
+"Bienvenue au batiment Totem de la French Tech.
+Nous fournissons des accès à des ordinateurs, cela vous coutera un Cairn par recherche.
+Nous pouvons aussi regarder et reprogrammer (en fait ils leur diront d'aller au Chapitre 9 - ST Micro)
+
+
+Questions:
+
+
+- Histoire de Grenoble
+
+  Lire "timeline des evenements.txt"
+
+
+- Tartiflette: 
+
+  La Tartiflette (et le reblochon) sont des plats interdits à Grenoble depuis que la Guerre contre la Savoie a commencé.
+  On la fait généralement en faisant précuire les patates, et AVEC de la crème [citation needed]. 
+  C'est le plat le plus haï des grenoblois, car il représente l'ennemi.
+
+
+- Guerre contre la Savoie
+
+  La Guerre contre la Savoie a commencé en 2022 avec des escarmouche.
+  Suite au désengagement de l'Etat, les villes sont livrées à elle-même et
+  la Savoie a déclaré son indépendance en janvier 2022.
+
+  Les autorités savoyardes ont demandé à Grenoble de les rallier et détuire la statue du chevalier Bayard sur la place du Tribunal.
+
+  Grenoble a refusée et est restée loyale à l'Etat Français déclinant.
+
+  La Savoir a repris Poncharra après une apre-bataille en mars 2022.
+
+  D'aucuns disent que les troupes Saovyardes utilisent la magie nécromantique pour pouvoir faire revivre leur morts...
+
+  Un mur à été construit au delà de Crolles pour protéger la Ville de Grenoble. Le reste du Grésivaudan est controllé par la Savoie, dont la capitale est Annecy.
+
+  Depuis la Tartiflette et le reblochon ont été interdit par arrêté municipal du 27 mars 2022.
+
+
+- qui est SuperAdjoint38
+
+  Vous tombez sur le compte Twitter de SuperAdjoint38.
+  Avec un peu d'analyse, vous réalisez qu'il s'agit
+  d'Antoine Back, il a été dans la municipalité Piolle 1er.
+  Depuis il s'est convertie au Popoïsme, un courant de pensée
+  qui prétend qu'on réfléchit beaucoup trop.
+
+
+- DarkAdvisor
+
+  Vous ne trouvez rien sur DarkAdvisor, à part un post sur un forum de "hacking" de 2017.
+  (celà dit les joueurs peuvent remonter à sa trace avec:
+     * son profil de forum révèle son email, darkadvisor@stmdeveloper.fr
+     * avec un WHOIS stmdeveloper.fr est détenu par un utilisateur anonyme, mais son adresse est renseignée: étage 31 Tour Vercors.
+  )
+
+
+- Seyssins420 est là (il s'agit de Jerome Safar)
+
+  Il s'agit du pseudonyme de Jerome Safar, ancien opposant de Piolle rallié à la liste Popo-Piolle.
+  Visiblement ses colistiers lui ont conseillé de rester discret et choisir un pseudonyme afin de ne pas impacter négativement les électeurs.
+
+
+- Julien Polat
+
+  C'est un ancien disciple de Carignon. 41 ans.
+  Maire de Voiron depuis 2014, il est réélu en 2020?.
+  En 2022, suite à la Guerre contre la Savoie il s'allie à la ville
+  indépendante de Grenoble et s'occupe de ravitailler les troupes iséroises en fromage.
+  En 2024, il déclare qu'il n'est que le représentant séculaire du Grand Voiron éternel, annexe le Saint Marcellinois et s'octroie le titre de Maire à Vie du Grand Voiron.
+  A partir de là les relation avec Alain Carignon se dégradent de manière notable, et aucun d'entre eux ne prendra plus le train magnétique qui relie Voiron à Grenoble.
+  La lecture de l'article vous prouve que Julien Polat est quelqu'un de dangereusement ambitieux.

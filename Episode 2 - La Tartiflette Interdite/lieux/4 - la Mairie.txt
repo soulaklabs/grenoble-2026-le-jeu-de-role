@@ -1,0 +1,25 @@
+Si les joueurs n'ont pas rencontrés Polat encore, en gros il se passe les mêmes évènement que dans Chapitre 4 - à la Gare avec Polat, mais avec le Tram C et dans le bureau du maire pour l'entretien.
+
+=> GOTO chapitre 4
+
+Si les joueurs ont rencontré Polat, il le trouvent dans le bureau du Maire.
+Il ne sait rien de plus que lors de la première rencontre.
+
+Leur fournit une noix shuriken par joueur, pas electroniques.
+  (niveau 17, tranchant, 1 dégat)
+
+
+  * l'IP 46.218.50.200 vous mène ici.
+
+    La salle des machine est gardé par un technicien IT 4 PDV
+    (qui invoque Pluie de STM32, 3 dégats niveau 17).
+
+    En analysant le réseau interne de la Ville de Grenoble, vous constatez qu'en fait toutes les infrastructure anciennement municipales passe encore par la mairie mais sont routés vers les autres batiments de la Ville:
+
+    La Mairie
+    mais aussi Le Palais des Sports.
+
+    * hacking réussi: le traffic entrant vers 46.218.20.200 (grenoble.fr)
+    est copié et redirigé vers stmdeveloper.fr
+    (plus de précisions dans Chapitre Totem sur ce point)
+    

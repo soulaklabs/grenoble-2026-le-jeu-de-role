@@ -1,0 +1,64 @@
+Grenoble, 2026
+
+Vous voilà de retour à la mairie de grenoble, dans le bureau des mariages.
+
+Francois JACQ vous recoit accablé dans le bureau des mariage.
+
+"Vous savez, en tant que directeur du CEA, c'est un déchirement de voir partir autant de jeunes hommes de talent. Nous allons demander des crédits supplementaire, car, après tout, la vie continue.
+Tous les services sont sur le coup. Avec vous, je suis encore plus rassuré."
+
+Je pense que vous faites du bon travail, mais je ne suis pas sur d'avoir encore besoin de vous...
+
+* mais vous êtes directeur du CEA?
+
+Oui. Vous savez, passé un certain niveau, si on veut faire avancer la recherche, il faut faire de la politique
+
+
+* Bernard le Thésard était _votre_ thésard.
+
+Bernard était un élève brillant. Il a découvert une théorie intéressante sur les champs magique.
+Malheureusement, je crains que personne n'ait jamais lu sa thèse...
+Ecoutez, désormais c'est entre les mains de la police. La vraie.
+
+
+* Connaissez vous 
+
+Ecoutez, ca ne me dit rien.
+
+* Torture: l'année dernière, Balance Sécurité a obtenu un marché public pour la sécurité de la Bastille. 
+Ils ont pris possession du fort, mais je ne sais pas ce qu'il s'y passe. On nous interdit d'y aller.
+
+* "Grenoble ville multiplan": j'ai entendu parler de ce plan, mais ca me semble dangereux. j'ai voté contre au conseil municipal, et j'ai l'oreille de M. Carignon. Rien ne s'est fait car ca couterait trop cher...
+
+* "plan Lesdiguières" => jamais entendu parler. Histoire du général lesdiguières.
+
+* Au final dans la conversation:
+
+Mais par dessus tout, le rôle de Balance Sécurité me semble trouble. Il faudrait que vous vous intéressiez à ca...
+
+François Jacq s'arrête brusquement de parler car vous voyez que sa joue coule sur son bureau.
+Dans une scène d'une horreur soudaine, François Jacq est en train de se liquéfier.
+Un filet d'acide tiré depuis l'étage supérieur lui coule dessus.
+
+Avant de mourir dans des hurlement de douleur il dit "gnamgnngngn" dans sa bouche en mauvais état.
+
+Le jet d'acide éclabousse. Comment évitez-vous le jet d'acide?
+Faites tous un jet de dé pour esquiver le jet d'acide. Sinon dégat 2 PV chacun.
+
+* A l'étage
+
+Vous trouvez une bassine d'acide percée qui coule à travers le sol.
+Ainsi que deux loups mécaniques qu'on avait visiblement placé là pour votre arrivée.
+
+Loup mécanique:
+  * morsure dé difficulté 13, 3 dégats
+  * minigun dé difficulté 4, 6 dégats
+ PV 5
+
+Le loup porte un collier marqué "Verseau Sécurité".
+
+Au fond de la bassine, se trouve un émetteur.
+
+L'émetteur permet de controller le chien, commandé depuis la bastille. Compétence hacking.
+Si les joueurs réparent le chien et le hackent, il est de leur côté.
+

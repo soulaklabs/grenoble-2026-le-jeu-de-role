@@ -1,0 +1,118 @@
+
+
+Notice: 
+
+   * sélectionnez DEUX écoles de magies
+   * puis choisissez UN sort de rang 1 dans chacune des écoles de magie choisies
+
+
+=== MAGIE DE DROITE
+
+Sort rang 1: 
+Le Nez. 
+Vous pouvez savoir instantanément le niveau de revenu et d'instruction de quelqu'un, en le reniflant.
+
+Sort rang 1: 
+Fake. 
+Vous pouvez paraitre riche pendant un quart d'heure. (niveau 15)
+
+Sort rang 2: 
+Tonfa. 
+Inflige 1 dégat métallique instantanément (niveau 19). La victime laisse tomber un Cairn si elle en a.
+
+Sort rang 3: 
+Tazer. 
+Immobilise quelqu'un pendant 5 minutes (niveau 10), sauf si il est puissant.
+
+Sort rang 4: 
+Faux policier. 
+Vous pouvez infliger une amende à quelqu'un, qui vous prendra pour un policier et vous donnera tous ses Cairn.
+
+Sort rang 5: 
+Le 17
+Vous pouvez invoquer la police ou la BAC qui arrivent un tour plus tard.
+
+
+=== MAGIE DE GAUCHE
+
+
+Sort rang 1: 
+Perspicacité.
+=> Vous pouvez detecter les conflits d'intéret jusqu'à 1 km (niveau 18).
+
+Sort rang 1: 
+Nique la BAC. 
+=> Vous détectez les CRS/polices/armée/paramilitaires pendant 10 minutes, jusqu'à 2 km.
+
+Sort rang 2: 
+Collecter l'impot. 
+=> Vous pouvez demander un Cairn à quelqu'un, qui se sentira obligé de vous le donner, car il vous prend pour un mendiant.
+
+Sort rang 3: 
+No pasaran.
+=> La magie de gauche invoque un mur de barricade qui empêche les ennemis de passer pendant un tour (niveau 14).
+
+Sort rang 4:
+Collecter l'impot+.  
+=> Vous pouvez passer pour un agent fiscal pour demander 5 Cairn à quelqu'un, qui se sentira obligé de vous le donner. (niveau 15)
+
+Sort rang 5: 
+Débat chiffré.
+=> Vous pouvez invoquer un.e économiste/philosophe/polémiste de votre choix. Cette personne va essayer d'attaquer les fondements de la croyance de l'adversaire. (niveau 17)
+
+
+=== MAGIE DES ORDINATEURS
+
+Sort rang 1: 
+Detection de la WiFi.
+=> Vous pouvez dire si il y a de la WiFi (ou du WiFi).
+
+Sort rang 1: 
+Générateur.
+=> Vous pouvez infliger des décharges electrique (1 dégat, niveau 16) et alimenter des petits appareils.
+
+Sort rang 2: 
+Piratage.
+=> Vous pouvez tenter d'intercepter des informations contenues dans un système, mais pas les modifier. (niveau 17)
+
+Sort rang 3: 
+Pluie de STM32.
+=> Une pluie de petits processeurs tombe sur l'adversaire, ce qui lui fait mal. (2 dégats, niveau 15)
+
+Sort rang 4:
+Collecter l'impot+. 
+=> Vous pouvez accéder à Internet par la pensée, mais à un débit très faible et ca vous fatigue.
+
+Sort rang 5: 
+Reprogrammation
+=> Vous pouvez hacker n'importe quoi et changer ce que fait un ordinateur. Mais ca prend du temps. (niveau 17)
+
+
+
+=== MAGIE DU GRESIVAUDAN
+
+
+Sort rang 1: 
+Accent débrayable.
+=> Vous pouvez parlez avec un accent local, ou pas.
+
+Sort rang 1: 
+Meilleure eau de France. 
+=> Vous regagnez 1 PDV par litre d'eau de Grenoble bue.
+
+Sort rang 2: 
+Ici c'est Grenoble. 
+=> Provoque l'hilarité chez l'adversaire. Cet adversaire oublie de jouer. (niveau 10)
+
+Sort rang 3: 
+Grelou.
+=> Vous pouvez escalader tout type de surface en dessous du 8c. (niveau 18)
+
+Sort rang 4:
+Moine chartreux.
+=> Vous pouvez rendre une personne muette pendant 1h. (niveau 12)
+
+Sort rang 5: 
+Bayard.
+Vous invoquez le chevalier Bayard, armé d'une épée batarde. (niveau 17)
+  Le chevalier Bayard a lui meme 3 PDV, compétence taper niveau 15 qui fait 2 dégats.

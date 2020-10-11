@@ -1,0 +1,54 @@
+
+Vous êtes au 31ème étage de la Tour Vercors.
+
+Il est 16h de l'après-midi.
+
+Vous arrivez devant l'appartement de DarkAdvisor, le sombre conseiller sans nom.
+
+
+(Note pour le MJ: DarkAdvisor s'attends à leur venue car avec la Noix Connectée et/ou la Noix du Clivage, il entend ce que font les joueurs.)
+
+La porte est n'est pas fermée.
+
+L'appartement est un deux pièces lumineux tournée vers l'est.
+Apparemment il n'y a personne.
+
+(mais quand les joueurs fouillent)
+
+Dark Advisor leur tombe dessus depuis le plafond et les attaque.
+C'est un homme sec, grand et chauve, qui tient un ordinateur dans sa main et un katana dans l'autre.
+
+DarkAdvisor (2 PV):
+  * Katana bien équilibré 5 dommages, niveau 18
+  * "Sombre nuit" (niveau 16) il se connecte a son smart home pour éteindre les lumières et fermer les volets et donc les joueurs le combattent dans le noir. Or lui connait chez lui.
+
+Avant de mourir il livre ces informations
+
+- où est Eric Piolle?
+
+  Piolle est retenu au musée d'histoire naturelle...
+  Mais il est trop tard pour vous...
+
+- les plans des terro-gauchistes; faire sauter le mur avec leurs stocks de Chartreuse. Donner la ville aux Savoyards pour empêcher les voironnais de faire de même.
+
+puis se suicide à la Strychnine en croquant une pastille tout en sautant pas la fenêtre.
+
+* Fouille: drap
+  sous lequel se situe un ordinateur, loggé sur la boite mail protonmail
+  de DarkAdvisor
+
+  Il communique avec Popo et Aurélien Barrau.
+
+  "Le fossile est maintenant bien au frais au museum d'histoire naturelle.
+   Il n'a rien vu venir.
+   La tartiflette vaincra. - Dark Advisor, le 18 mars 2026
+  ""
+
+  puis un autre mail uniquement pour Aurélien Barrau:
+
+  "Double feu d'artifice cette fin d'après-midi" - Dark Advisor, ce matin le 15 Juin 2026
+
+* le frigo contient une IPA de pouvoir par personne (qui permet d'apprendre un pouvoir)
+ et 3 bières qui restorent 2PV.
+
+Après la fouille, le mur explose => Chapitre 11

@@ -1,0 +1,43 @@
+En arrivant à la Bobine, vous constatez que le batiment est devenu un restaurant chic.
+
+Le serveur voudrait vous barrer le chemin. 
+Peut pas rentrer sans avoir l'air riche.
+
+Vous pouvez acheter des produits francais:
+
+  - une tête de veau qui restaure 6 PV pour 2 cairn
+  - des bières qui restaure 2 PV pour 1 cairn
+
+
+Vous réalisez que la vie mondaine de la bourgeaoisie bat son plein à Grenoble.
+Les riches propriétaire de Corenc mangent des huitres et de la tête de veau.
+
+- Au sous-sol, rien mais vous trouvez le numéro du postillon si pas trouvé.
+ La porte extérieure est ouverte mais il ne faut pas faire de bruit.
+
+Et un robot tunnelier.
+Et un tag "grenoble ville mauvais plan"
+
+* fouille: exemplaire du Postillon de 2025.
+
+   + article sur Jacq: vous lisez un article sur François Jacq et sa gestion désastreuse du CEA.
+     Car oui, votre commanditaire n'est autre que le patron du CEA.
+     Le postillon a intercepté un email de Cancer Investissement proposant à François Jacq 
+     un partenariat public-privé intéressant, contre son silence.
+
+     Le courrier contient le message suivant :
+     "Cher François,
+      Ce fut un plaisir de discuter avec vous de nos affaires respectives et de mettre les choses au clair. Nous somme disposés à investir d'avantages de moyens avec le CEA pour la poursuite
+      des recherches dans votre équipe.
+
+      Néanmoins notre avis reste le même : nous pensons que révéler au public l'existence du plan
+      Lesdiguières serait prématuré et nuirait à la réussite d'iceluy. 
+
+      En espérant vous retrouver dans d'aimables dispositions.
+      Cancer Investissement"
+      
+      Le Postillon pense que François Jacq aurait recu de l'argent d'une boite nommé Cancer Investissement.
+
+(Note pour le MJ: en fait, non, mais il n'aura pas le temps de le dire aux joueurs vu qu'il meurt)
+
+(si les joueurs n'ont jamais croisé Popo, il peuvent la croiser en sortant, go Bastille)

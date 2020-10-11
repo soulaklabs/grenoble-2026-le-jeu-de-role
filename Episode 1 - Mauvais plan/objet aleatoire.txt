@@ -1,0 +1,10 @@
+Tirer D7
+
+1 => vous ne trouvez rien
+2 => vous trouvez deux objets
+3 => 5 Cairn
+4 => une bière pas entamée
+5 => monocycle rouillé, valeur 1 Cairn
+6 => k-way imperméable (protegera de l'acide)
+7 => une carte du professeur MOUADO
+   * si vous l'appelez, il vous donnez un indice.

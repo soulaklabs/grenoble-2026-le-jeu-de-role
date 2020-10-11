@@ -1,0 +1,23 @@
+Sort rang 1: 
+Le Nez. 
+Vous pouvez savoir instantanément le niveau de revenu et d'instruction de quelqu'un, en le reniflant.
+
+Sort rang 1: 
+Fake. 
+Vous pouvez paraitre riche pendant un quart d'heure. (niveau 15)
+
+Sort rang 2: 
+Tonfa. 
+Inflige 1 dégat métallique instantanément (niveau 19). La victime laisse tomber un Cairn si elle en a.
+
+Sort rang 3: 
+Tazer. 
+Immobilise quelqu'un pendant 5 minutes (niveau 10), sauf si il est puissant.
+
+Sort rang 4: 
+Faux policier. 
+Vous pouvez infliger une amende à quelqu'un, qui vous prendra pour un policier et vous donnera tous ses Cairn.
+
+Sort rang 5: 
+Le 17
+Vous pouvez invoquer la police ou la BAC qui arrivent un tour plus tard.

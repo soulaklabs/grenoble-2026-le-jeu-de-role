@@ -1,0 +1,112 @@
+
+Grenoble, 2026
+
+
+Nous sommes 15 juin 2026, 45 jours après les évènement du 1er mai 2026 de l'épisode précédent.
+
+Vous êtes toujours la même équipe d'aventuriers de chocs, vainqueur du mystère de la cuillère coulée, de l'énigme des 50 perruques, et maintenant vous avez défait le plan de l'infame Carignon qui essayait d'ouvrir un portail dimensionnel vers le Monde de la Droite.
+
+Suite aux évènements dramatiques du mois dernier, vous avez été recueillis et hebergés gracieusement par les membres de la résistance de gauche interne à Grenoble, qui se structure autour d'un projet démocratique : la liste Popo-Piolle.
+
+Les gauchistes ont investi les catacombes de Grenoble et leur quartier général se situe en fait sous le Palais des Sports, au centre du réseau souterrain. Popo est à leur tête et des assemblées générales ont lieu régulièrement.
+
+C'est là que vous êtes hébergés secrètement, mais vous ne savez pas pourquoi. Par ailleurs vous n'avez plus trop d'habits propres à vous mettre, si bien que vous commencez vous-même à ressembler à vos hotes.
+
+Tout le monde s'affaire en vue de préparer la campagne municipale, entre collages d'affiche, tract, et confection de 150 propositions de manière collégiale.
+
+
+La nuit du 14 juin, ont vous convoque a une assemblée générale dans la parking principal. Popo est présente et s'adresse à l'assemblée.
+
+
+Les têtes sont inquiètes et les joints brulent de manière inquiète.
+
+POPO
+
+  "Camarades. Les municipales approchent, mais pour des raisons qui ne sont pas claire, et malgré la mort de Carignon, la ville reste encore une ville de droite.
+
+  Nos informateurs nous informent que Julien Polat, maire de Voiron, prévoit d'annexer la ville pour en faire un protectorat du Voironnais et devenir maire par intérim. Ca n'est pas vraiment sympa.
+
+  Nous voulons exprimer notre attachement à la démocratie, et ferons le nécessaire pour que soit organisé des élections libres, même si on est en 2026 dans une dystopie.
+
+  Par ailleurs, ces mêmes informateurs ont réussi à retracer l'origine de cette puissante magie de droite qui rend tout le monde conservateurs.
+
+  Nous avons repéré la source magique vers la radio locale la plus écoutée : Radio Campus Grenoble. Cette station, qui émet sur le 90.8, est d'après les gauchomanciens le média responsable de l'opinion des Grenoblois. L'énergie sur cette carte d'énergie converge en partie vers le batiment de EVE. Nous n'en savons pas plus."
+
+
+Son adjoint, Bruno de Lescure, lui coupe la parole:
+
+  Seulement voilà, nous autres gaucho-terroristes de la liste Popo-Piolle, sommes faible et isolés. Nous pensons que vous, aventuriers, êtes les mieux à même de nous aider.
+
+  D'ailleurs, l'assemblée a voté pour que vous interveniez.
+
+  Votre mission est simple: aidez-nous à infiltrer Campus Grenoble et trouvez le secret de cet émetteur.
+
+Popo vous tend 3 noix bourrée d'électronique:
+  * "Cette Noix du Clivage vous permettra de détecter la magie de droite et de gauche, quand tout sera trouble autour de vous."
+  * Cette Noix Connectée vous permet de communiquer avec moi
+  * Enfin, et c'est très important: cette Noix de Polarité permet de changer un signal magique de gauche en signal de droite, et vice-versa.
+
+
+Questions:
+
+- où est Eric Piolle:
+   Eric Piolle est en mission dans les quartier suds, nous ne savons pas exactement où il est car nous ne pouvons pas communiquer par portable.
+
+- qui est sur la liste Popo-Piolle ?
+
+  Eric Piolle est tête de liste
+  Popo deuxième
+  Bruno de Lescure troisième
+  Les autres ont des pseudo pour protéger leur identité:
+  SuperAdjoint38 (Note pour le MJ = Antoine Back, en voyage diplomatique en Savoie)
+  DarkAdvisor (Note pour le MJ = complètement anonyme, possible de le visiter au Chapitre 10. Il habite dans la Tour Vercors, au 31ème étage, mais cette information est dure à obtenir)
+  Seyssins420 (Jerome Safar "j'ai été dans l'opposition, mais là on a pas vraiment de place pour une quatrièeme liste. J'ai pris un pseudo pour pas qu'on me reconnaisse pas sur la liste. Popo sait apprécier les gens compétents.")
+
+  Il n'y a pas plus de noms.
+
+
+- interroger Bruno de Lescure
+
+   "Nous avons eu des différents dans le passé avec Eric Piolle, mais c'est terminé. Face à l'offensive de la droite, je pense que l'union des gauches est la solution. 
+   Notre slogan c'est "Grenoble est à nous, récupérons-la"
+   C'est avec ce slogan que Popo m'a convaincu de la suivre.
+
+- ou est Campus Grenoble?
+   Dans le batiment EVE, sur le campus. Vous pouvez y aller en Tram C.
+
+- si les joueurs écoutent Campus Grenoble sur un poste de radio?
+
+   Vous allumez Campus Grenoble, 90.8. Vus entendez des jingles fait par des animaux, une émission de cuisine commence.
+
+   Néanmoins, vous êtes frappés par l'atmosphère de conservatisme qui entoure subtilement chacune de ces émissions.
+
+   C'est comme si magiquement, les valeurs de la droite s'infiltraient dans votre cerveau.
+
+   Comment évitez-vous cette attaque de magie de droite?
+
+   Ennemi: Poste Radio: niveau 15.
+   Diminue de 5 le niveau des sorts de magie de gauche jusqu'au prochain repos.
+
+- qui a fabriqué ces noix ?
+
+   On a un programmeur parmi nous.
+   Comment faites-vous pour la persuader ?
+   
+   C'est DarkAdvisor (qui est sur la liste) qui a programmé les noix, sur des STM32m. C'est un ancien de ST.
+   (Note pour le MJ: DarkAdvisor travaille pour Aurélien Barrau)
+   Popo ne sait pas où est DarkAvisor ou est DarkAvisor car les adresses de chacun sont cachés. Il travaille en remote.
+
+* que faire à Grenoble?
+
+   On a une boutique qui sert à financer notre terroliste.
+   La tour perret est bien gardée mais c'est un lieu intéressant avec toutes ces caméras!
+   Le Totem permet d'accéder à Internet.
+   Attention, car les rues de Grenoble se remplissent peu à peu de mercenaires Voironnais, qui sont une milice paramilitaire.
+
+
+
+* fouille des lieux:
+  trouver un tract => Chapitre 8
+
+* trouver un plan du réseau souterrain 
+  => Chapitre 14

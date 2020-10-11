@@ -1,0 +1,23 @@
+Sort rang 1: 
+Perspicacité.
+=> Vous pouvez detecter les conflits d'intéret jusqu'à 1 km (niveau 18).
+
+Sort rang 1: 
+Nique la BAC. 
+=> Vous détectez les CRS/polices/armée/paramilitaires pendant 10 minutes, jusqu'à 2 km.
+
+Sort rang 2: 
+Collecter l'impot. 
+=> Vous pouvez demander un Cairn à quelqu'un, qui se sentira obligé de vous le donner, car il vous prend pour un mendiant.
+
+Sort rang 3: 
+No pasaran.
+=> La magie de gauche invoque un mur de barricade qui empêche les ennemis de passer pendant un tour (niveau 14).
+
+Sort rang 4:
+Collecter l'impot+.  
+=> Vous pouvez passer pour un agent fiscal pour demander 5 Cairn à quelqu'un, qui se sentira obligé de vous le donner. (niveau 15)
+
+Sort rang 5: 
+Débat chiffré.
+=> Vous pouvez invoquer un.e économiste/philosophe/polémiste de votre choix. Cette personne va essayer d'attaquer les fondements de la croyance de l'adversaire. (niveau 17)
