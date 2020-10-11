@@ -13,7 +13,7 @@ Ne lisez donc PAS ces fichiers textes si vous êtes simplement participant, car 
 
 # L'univers
 
-Dans le monde d'après, le pouvoir central a bien du mal à imposer son autorité aux villes résilientes.
-Nous sommes en 2026, et après 6 ans de droite les candidats se profilent pour de nouvelles élections municipales à Grenoble.
+_Dans le monde d'après, le pouvoir central a bien du mal à imposer son autorité aux villes résilientes._
+_Nous sommes en 2026, et après 6 ans de droite les candidats se profilent pour de nouvelles élections municipales à Grenoble._
 
-C'est sans compter sur l'irruption d'aventuriers bourrés de talents: VOUS.
+_C'est sans compter sur l'irruption d'aventuriers bourrés de talents : VOUS. Qui remportera la maîtrise de la ville ?_
