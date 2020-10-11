@@ -1,0 +1,61 @@
+Tirer D6
+
+
+# 1 => punk à chien
+
+Alors que vous marchez dans la rue, une fille avec trois chiens vous regarde avec un air mauvais.
+"T'a pas 1 cairn ? Parce que mes chiens ont faim là."
+Que faites vous ?
+
+Fille: compétence couteau 10 dégat 3.
+Chiens: compétence mordre 7 dégat 2.
+PV chien: 1
+PV fille: 3
+
+
+
+# 2 => CRS élémentaire d'eau
+
+Alors que vous passez par les quais, un CRS élémentaire d'eau surgit de l'Isère et vous attaque avec un bouclier d'algues.
+Il crie "Protection des beeeerges"
+Que faites vous ?
+
+
+CRS: compétence tonfa niveau 13 dégat 2.
+     compétence lacrimo niveau 6 aveugle.
+     bouclier (-1)
+     PV 2
+
+
+# 3 => cinq controlleur 
+
+Alors que vous prenez le tram, 5 controlleurs tags rentrent dans le tram.
+Les controlleurs sont armées de tazer (qui vous immobilisent pendant un tour).
+Vous réalisez que les transports ne sont pas gratuits.
+
+Que faites-vous?
+
+
+5 controlleur tags:
+  compétence tazer niveau 13 dégat 1 passe son tour
+  compétence taper aux poings niveau 5 dégat 2
+  PV 2 chacun
+
+
+
+# 4 => rien ne se passe. Le trajet se passe sans encombre.
+       Il se met à pleuvoir / faire beau
+
+
+# 5 => Alors que vous vous appretiez à prendre votre Métrovélo, vous constatez que ceux-ci ont disparus. Il ne reste plus que les roues.
+
+   * s'approcher de la roue: vous vous rendez compte que la roue est enduite de liquide vert.
+   Que faites vous? Il semble que votre roue ait été piégée.
+
+   Explosion qui fait 3 dégats, éviter avec une compétence.
+
+   
+
+# 6 => cabine téléphonique à pièce qui vous permet de faire une recherche sur Internet en parlant a un opérateur
+
+    * opérateur WikiGrenoble bonjour ! Pour un Cairn, vous pouvez effectuer une recherche sur Internet.
