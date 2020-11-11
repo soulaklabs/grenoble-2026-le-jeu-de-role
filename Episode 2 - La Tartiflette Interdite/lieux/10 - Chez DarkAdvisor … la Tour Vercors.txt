@@ -18,8 +18,8 @@ Apparemment il n'y a personne.
 Dark Advisor leur tombe dessus depuis le plafond et les attaque.
 C'est un homme sec, grand et chauve, qui tient un ordinateur dans sa main et un katana dans l'autre.
 
-DarkAdvisor (2 PV):
-  * Katana bien équilibré 5 dommages, niveau 18
+DarkAdvisor (10 PV):
+  * Katana bien équilibré 5 dommages, niveau 18  
   * "Sombre nuit" (niveau 16) il se connecte a son smart home pour éteindre les lumières et fermer les volets et donc les joueurs le combattent dans le noir. Or lui connait chez lui.
 
 Avant de mourir il livre ces informations
@@ -47,8 +47,5 @@ puis se suicide à la Strychnine en croquant une pastille tout en sautant pas la
   puis un autre mail uniquement pour Aurélien Barrau:
 
   "Double feu d'artifice cette fin d'après-midi" - Dark Advisor, ce matin le 15 Juin 2026
-
-* le frigo contient une IPA de pouvoir par personne (qui permet d'apprendre un pouvoir)
- et 3 bières qui restorent 2PV.
 
 Après la fouille, le mur explose => Chapitre 11

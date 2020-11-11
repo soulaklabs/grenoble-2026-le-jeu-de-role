@@ -24,6 +24,7 @@ Pour passer
        Matraque 2 dégats (niveau 18)
        Bouclier -1
 
+
      Policier 2 :
        Canon à eau 3 dégats (niveau 13) tire deux fois
        dans un Véhicule blindé
@@ -35,6 +36,11 @@ Pour passer
     Policier 4 :
        Tonfa 6 dégats (niveau 8)
        Bouclier -1
+
+    Policier 5 :
+       Matraque 2 dégats (niveau 18)
+       Bouclier -1
+
 
 
 

@@ -5,8 +5,6 @@ Si les joueurs n'ont pas rencontrés Polat encore, en gros il se passe les même
 Si les joueurs ont rencontré Polat, il le trouvent dans le bureau du Maire.
 Il ne sait rien de plus que lors de la première rencontre.
 
-Leur fournit une noix shuriken par joueur, pas electroniques.
-  (niveau 17, tranchant, 1 dégat)
 
 
   * l'IP 46.218.50.200 vous mène ici.
