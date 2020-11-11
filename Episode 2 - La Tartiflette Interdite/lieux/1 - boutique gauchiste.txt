@@ -22,7 +22,7 @@ La caissière vous explique:
 
 * En cas de braquage: il y a 10 Cairns.
   Vendeuse à un couteau qui inflige 4, niveau 12. Elle même a 2 PV.
-  Pendant le combat si les joueurs font du bruit, un garde-gauchiste intervient, qui vous fait culpabiliser en disant qu'on ferait mieux de pas se tirer dans les pattes.
+  Pendant le combat si les joueurs font du bruit, 2 garde-gauchiste intervient, qui vous fait culpabiliser en disant qu'on ferait mieux de pas se tirer dans les pattes.
   Niveau 18, inflige 2 dégat avec ses dreads.
 
 * Lire le livre d'Aurélien Barrau

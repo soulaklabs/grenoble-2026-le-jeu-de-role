@@ -36,7 +36,7 @@ Vous prenez des sandwich Club qui restaurent 3PV chacun.
 
 
 "Bon. Je sais ce que vous vous dites. 
-J'ai soutenu Carignon par le passé et vous me considérez peut-être comme un ennemi. Je ne désire pas être.
+J'ai soutenu Carignon par le passé et vous me considérez peut-être comme un ennemi. Je ne désire pas l'être.
 
 Néanmoins j'ai des informations de la plus haute importance à vous communiquer.
 
@@ -54,7 +54,7 @@ Popo et Aurélien Barrau ont prévu de s'allier dans une triangulaire au second 
 
 Mais le premier point troublant est qu'Eric Piolle a disparu.
 
-Le deuxième point troublant, c'est le fait que leur liste n'a que 6 noms, et que leur programme n'est visiblement pas terminé.
+Le deuxième point troublant, c'est le fait que leur liste n'a que 6 noms, et que leur programme n'est visiblement pas terminé. Je ne pense pas qu'ils s'apprèetent à respecter les valeurs de la démocratie.
 Le notre est simple: remettre le "Noble" dans Grenoble.
 
 Le deuxième point - plus que troublant - est que les gaucho-survivalistes préparent secrètement une alliance avec la Savoie. 
@@ -62,7 +62,7 @@ Le deuxième point - plus que troublant - est que les gaucho-survivalistes prép
 Ce matin, ils ont pris le contrôle de Campus Grenoble, ce qui leur permet de distiller dans l'esprit des gens les idées Survivalistes.
 Ces idées ont pour unique but de préparer les esprits à l'invasion de Grenoble par la Savoie!
 
-La magie survivaliste est très liée à la magie du grésivaudan, or a qui appartient la majorité du Grésivaudan ? La Savoie !
+La magie survivaliste est très liée à la magie du grésivaudan, or à qui appartient la majorité du Grésivaudan ? La Savoie !
 
 Pire, leurs tractations avec la Savoie prévoient de laisser les savoyards détruire la statue du soldat Bayard. Nous le savons car nous controllons la police municipale. Si celà devait arriver, s'en serait fini de l'indépendance de cette ville.
 
@@ -70,16 +70,20 @@ C'est un devoir moral de s'y opposer, et aussi faire acte de courage.
 
 Le premier ordre du jour est de trouver Eric Piolle car c'est un vrai démocrate. Il ne permettra pas d'être trahi de la sorte ! Pour cette élection j'aimerais avoir un adversaire loyal.
 
-C'est votre nouvelle mission. Je vous verse immédiatement 100 Cairn à vous partager pour vous aider dans cette tache.
+C'est votre nouvelle mission. Je vous verse immédiatement 20 Cairn à vous partager pour vous aider dans cette tache.
 
-Vous devrez aussi absolutement sauver Grenoble de cette domination étrangère! On a beaucoup de moyens, mais la population vous fait confiance depuis que vous l'avez sauvé à l'épisode précédent, alors que nous somme injustement vus comme des envahisseurs.
+Vous devrez aussi absolutement sauver Grenoble de cette domination étrangère! On a beaucoup de moyens, mais la population vous fait confiance depuis que vous l'avez sauvé à l'épisode précédent, alors que nous sommes injustement vus comme des envahisseurs.
 "
 
 * en vente à la Gare:
-   - bouteille d'eau qui restaure 1PV pour 3 Cairn
+   - bouteille d'eau Volvex qui restaure 3PV pour 3 Cairn
+     Votre corps à tout le magnésium et le calcium dont il a besoin.
 
    - tract Popo-Piolle
       => Voir Chapitre 8 pour le lire
 
+# EN PARTANT
 
-* si les joueurs donnent un Cairn à un mendiant, il leur raconte que la statue de Bayard, bien qu'on ait essayé de lui trouver des propriété magique, n'est en fait pas magique.
+En partant de la gare, vous voyez un mendiant visiblement malade qui vous demande un cairn.
+En cas de combat: se défend pas et hurle "je suis opprimé" jusqu'à ce que les joueurs se sentent mal à l'aise.
+* si les joueurs donnent un Cairn au mendiant, il leur raconte que la statue de Bayard, bien qu'on ait essayé de lui trouver des propriété magique, n'est en fait pas magique.

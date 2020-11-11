@@ -3,7 +3,7 @@ Vous arrivez au batiment Totem.
 Une hotesse d'accueil plantureuse vous accueille.
 "Bienvenue au batiment Totem de la French Tech.
 Nous fournissons des accès à des ordinateurs, cela vous coutera un Cairn par recherche.
-Nous pouvons aussi regarder et reprogrammer (en fait ils leur diront d'aller au Chapitre 9 - ST Micro)
+Nous pouvons aussi regarder et reprogrammer les STM32m (en fait ils leur diront que c'est trop compliqué pour eux, et d'aller au Chapitre 9 - ST Micro)
 
 
 Questions:
@@ -37,6 +37,8 @@ Questions:
 
   Un mur à été construit au delà de Crolles pour protéger la Ville de Grenoble. Le reste du Grésivaudan est controllé par la Savoie, dont la capitale est Annecy.
 
+  Le mur peut se visiter, et c'est même un endroit intéressant.
+
   Depuis la Tartiflette et le reblochon ont été interdit par arrêté municipal du 27 mars 2022.
 
 
@@ -58,7 +60,7 @@ Questions:
   )
 
 
-- Seyssins420 est là (il s'agit de Jerome Safar)
+- Seyssins420 (il s'agit de Jerome Safar)
 
   Il s'agit du pseudonyme de Jerome Safar, ancien opposant de Piolle rallié à la liste Popo-Piolle.
   Visiblement ses colistiers lui ont conseillé de rester discret et choisir un pseudonyme afin de ne pas impacter négativement les électeurs.
@@ -67,7 +69,7 @@ Questions:
 - Julien Polat
 
   C'est un ancien disciple de Carignon. 41 ans.
-  Maire de Voiron depuis 2014, il est réélu en 2020?.
+  Maire de Voiron depuis 2014, il est réélu en 2020.
   En 2022, suite à la Guerre contre la Savoie il s'allie à la ville
   indépendante de Grenoble et s'occupe de ravitailler les troupes iséroises en fromage.
   En 2024, il déclare qu'il n'est que le représentant séculaire du Grand Voiron éternel, annexe le Saint Marcellinois et s'octroie le titre de Maire à Vie du Grand Voiron.

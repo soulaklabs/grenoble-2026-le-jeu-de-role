@@ -16,15 +16,16 @@ Des militant vous apprennent que
 - Antoine Back / SuperAdjoint38 est en voyage diplomatique en Savoie
 - DarkAdvisor est chez lui mais on ne sait pas vraiment où est chez lui, c'est tenu secret et ignoré par les militants.
 - mais Seyssins420 est là (il s'agit de Jerome Safar)
+Si les joueurs ne parlent pas à Seyssins420, ils le rtetrouveront au bar.
 
 
-Celà dit, Vous arrivez dans la pièce souterraine qui sert de bureau à Jerôme Safar. Il semble inquiet et apeuré de vous voir.
+Celà dit, Vous arrivez dans la pièce souterraine qui sert de bureau à Seyssins420 / Jerôme Safar. Il semble inquiet et apeuré de vous voir.
 
 (Les joueurs peuvent apprendre les informations suivantes:)
 
 * Ou est Eric Piolle ?
 
-   "Je voulais vous en parler quand vous êtes venus. Mais c'est bizarre qu'on ne croise jamais Eric Piolle. Je ne l'ai pas vu du tout depuis le début de la compagne. Bien que ca soit un adversaire, j'aimais bien sa manière de s'habiller."
+   "Je voulais vous en parler quand vous êtes venus. Mais c'est bizarre qu'on ne croise jamais Eric Piolle. Je ne l'ai pas vu du tout depuis le début de la compagne. Bien que ca soit un ancien adversaire, j'aimais bien sa manière de s'habiller."
 
 * Ou sont les autres membres de la liste.
 
@@ -33,8 +34,8 @@ Celà dit, Vous arrivez dans la pièce souterraine qui sert de bureau à Jerôme
 
 * Pourquoi la radio émet des émissions Survivalistes
 
-   "Ecoutez, je ne comprends pas du tout ce qui se passe. Ca ne devait pas se passer comme ça. La radio devrait émettre
-   J'ai comme l'impression que vous avez été dupés... et moi avec vous.""
+   "Ecoutez, je ne comprends pas du tout ce qui se passe. Ca ne devait pas se passer comme ça. La radio devrait émettre des émissions de gauche.
+   J'ai comme l'impression que vous avez été dupés... et moi avec vous."
 
 
 * autre chose à savoir?

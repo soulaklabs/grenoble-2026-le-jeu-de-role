@@ -3,7 +3,7 @@ En vous dépéchant, vous vous rendez en métro-vélo au museum d'histoire natur
 (sauf que les joueurs sont normalement sous écoute)
 
 
-L'entrée coute normalement 1 Cairn par personne mais il n'y a personne à l'acceuil. Un écriteau dit: "fermé jsqu'à nouvel ordre".
+L'entrée coute normalement 1 Cairn par personne mais il n'y a personne à l'acceuil. Un écriteau dit: "fermé jusqu'à nouvel ordre".
 
 Les portes sont fermées, passer par la fenêtre c'est possible.
 
@@ -22,7 +22,7 @@ Un écriteau placé en dessous de l'édile, le présente comme "Social Traitre"
 Si les joueurs sont encore porteurs de la Noix Connectée ou la Noix du Clivage.
 Vous êtes attaqué par des insectes de toutes sortes.
 
-3 insectes a 1PV
+9 insectes a 1PV
  * attaque poison niveau 10 1point de dégats
  * araignées, guèpes, scorpion
  * animées par une puissante magie Survivaliste

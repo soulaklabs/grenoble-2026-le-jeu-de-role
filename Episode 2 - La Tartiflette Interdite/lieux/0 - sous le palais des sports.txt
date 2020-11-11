@@ -44,7 +44,7 @@ Son adjoint, Bruno de Lescure, lui coupe la parole:
 Popo vous tend 3 noix bourrée d'électronique:
   * "Cette Noix du Clivage vous permettra de détecter la magie de droite et de gauche, quand tout sera trouble autour de vous."
   * Cette Noix Connectée vous permet de communiquer avec moi
-  * Enfin, et c'est très important: cette Noix de Polarité permet de changer un signal magique de gauche en signal de droite, et vice-versa.
+  * Enfin, et c'est très important: cette Noix de Polarité permet de changer un signal magique de gauche en signal de droite, et vice-versa. C'est ce qu'il faudra utiliser une fois à Radio Campus.
 
 
 Questions:

@@ -10,7 +10,7 @@ Vous voyez une énorme usine de semi-conducteur, ST MicroElectronique.
 
 Malheureusement, l'endroit est gardé par 3 vigiles armé de matraques téléscopique.
 
-    Un vigile a 3 PDV, attaque matraque de niveau 13 qui fait un dégat.
+    Un vigile a 3 PDV, attaque matraque de niveau 13 qui fait 2 dégats.
 
 
    Que faites-vous ?

@@ -28,6 +28,15 @@ Pour passer
        Canon à eau 3 dégats (niveau 13) tire deux fois
        dans un Véhicule blindé
 
+    Policier 3 :
+       Flashball 4 dégats (niveau 16)
+       Bouclier -1
+
+    Policier 4 :
+       Tonfa 6 dégats (niveau 8)
+       Bouclier -1
+
+
 
 # Dans Radio Campus
 
@@ -44,8 +53,11 @@ Jérémie, coordinateur de la radio vous accueille.
 
 Jérémie a pas trop envie alors il faut le convaincre.
 
+En cas de combat:
 
-
+   Jeremie :
+       Coup de micro 2 dégats (niveau 11)
+       Protection casque DT770 -4
 
 
 # Salle des machines
@@ -65,7 +77,7 @@ Jérémie a pas trop envie alors il faut le convaincre.
 
     Que faites-vous?
 
-A l'issue de cette action Popo félicite les joueurs
+A l'issue de cette action Popo félicite les joueurs par la noix connectée:
 
  "Bravo, nous avons pu désactiver le convertisseur de droite.
  La radio est maintenant politique neutre, ce qui est ce que nous défendons. Car les idées c'est bien mais il y en a beaucoup trop."

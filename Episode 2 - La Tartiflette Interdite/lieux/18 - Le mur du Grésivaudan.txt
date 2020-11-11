@@ -18,7 +18,7 @@ Vous voyez des audioguides accroché à l'enceinte du Mur. Et une urne à côté
 # OUVRIR URNE
 
 
-Vous trouvez 29 Cairn dans l'urne.
+Vous trouvez 9 Cairn dans l'urne.
 
 
 
