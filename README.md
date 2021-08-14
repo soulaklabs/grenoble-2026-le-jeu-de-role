@@ -6,7 +6,7 @@
 # C'est quoi ?
 
 Ce dépot contient le nécessaire pour MJ de "Grenoble 2026", un jeu de rôle papier en deux épisodes.
-Le système de règle sur lequel il s'appuie est le système de jeu [HeroQuest](https://fr.wikipedia.org/wiki/HeroQuest_(jeu_de_r%C3%B4le)).
+Le système de règle sur lequel il s'appuie est le système de jeu [HeroQuest](https://en.wikipedia.org/wiki/HeroQuest_(role-playing_game)).
 
 Ne lisez donc PAS ces fichiers textes si vous êtes simplement participant, car vous risquez d'être salement spoilé.
 
