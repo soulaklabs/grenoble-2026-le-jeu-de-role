@@ -1,7 +1,7 @@
 # Bastille final
 
 
-Vous arriver à la bastille [par le moyen choisi] avec la liste Popo-Piolle.
+Vous arriver à la bastille [par le moyen choisi] avec la liste unitaire Popo-Piolle.
 En repérant les lieux, vous constatez que le portail est déjà un peu stabilisé.
 
 Soudain, un mugissement ténébreux déchire la nuit, et Alain Carignon apparait.
@@ -16,6 +16,7 @@ Alain Carignon brandit son beau-père Michel Bon dans ses bras mécanique et le 
 "La lune va se dévoiler dans moins de 10 minutes et il faut agir vite. VITE, vous avez compris"
 
 Vous voyez que la scène dégoute jusqu'au CRS qui hésitent à creuser mais s'exécutent.
+Ils sont équipés d'un tonfa greffé à leur deux bras et de pelles.
 
 
 

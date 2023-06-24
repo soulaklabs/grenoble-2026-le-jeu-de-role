@@ -8,3 +8,9 @@ Tirer D7
 6 => k-way imperméable (protegera de l'acide)
 7 => une carte du professeur MOUADO
    * si vous l'appelez, il vous donnez un indice.
+
+
+
+Objet de quêtes:
+- les fioles du destin, petite fiole qui donnent un "point de destin"
+  quand on boit le contenu.

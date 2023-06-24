@@ -1,0 +1,20 @@
+Le café du Weird
+===============
+
+Un bar d'extrème droite se présente devant vous.
+De la musique répétitive de droite se répand sur vous.
+
+ Achats:
+   - Whisky 3 PV pour 3 Cairn
+   - potion de droite pour 4 Cairn, elle vous permet de gagner un sort de droite au dessus d'un sort que vous avez déjà.
+   - épée décorative, rajoute un dégat a vos attaques (5 cairn)
+   - la tête de cerf est à vendre pour -4 Cairn. Effet inconnu. 
+     Object maudit, vous ne pouvez plus courir et impossible de s'en débarasser car elle colle.
+
+Il n'y a personne mais vous pouvez parler au barman.
+
+  * Bernard le thésard: c'était un bon client, mais il était plus souvent au Docteur D.
+    Il a du faire de drôle de rencontres là-bas.
+
+
+(si les joueurs n'ont jamais croisé Popo, il la croise en sortant)

@@ -10,14 +10,16 @@ ACTIONS POSSIBLE
 
   * dormir et récuper sa vie, mais un jour passe (1 avril au 2 avril)
   
-  * acheter une boisson: 1 cairn => une bière. Boire une bière restaure une capacité à fond. Mais il faut boire en vrai.
+  * acheter une boisson: 1 cairn => une bière. Boire une bière restaure une capacité à fond. Mais il faut boire en vrai
+
   * parler au Barman:
     - Je m'appelle Alex. j'ai ouvert ce bar il y a 15 ans. La ville a beaucoup changé. C'est un peu comme si tout le monde était devenu de droite petit à petit. Je ne l'explique pas.
 
   * Internet? 
     => non, ca a été coupé en 2023 sur toute la ville. Un internet très limité est disponible.
   * autres bars?
-    Le Café du Weird, deux anciens bars qui ont fusionnés. mais c'est un bar d'extrème droite maintenant.
+    Le Café du Weird, deux anciens bars qui ont fusionnés. Ils se sont aperçus qu'ils étaient déjà dans le même tunnerl.
+    Mais c'est un bar d'extrème droite maintenant. Je les connais pas.
   * Bernard le thésard: c'était un bon client, mais il était plus souvent au Café du Weird.
     Il a du faire de drôle de rencontres là-bas.
 

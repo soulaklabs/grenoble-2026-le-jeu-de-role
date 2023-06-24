@@ -59,3 +59,8 @@ Que faites-vous?
 # 6 => cabine téléphonique à pièce qui vous permet de faire une recherche sur Internet en parlant a un opérateur
 
     * opérateur WikiGrenoble bonjour ! Pour un Cairn, vous pouvez effectuer une recherche sur Internet.
+
+
+# Dans le livre d'or, vous voyez un message de:
+  
+  Balance Sécurité "merci pour cette livraison rapide"

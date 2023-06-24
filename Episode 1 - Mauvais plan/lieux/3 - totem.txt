@@ -4,6 +4,11 @@ Une hotesse d'accueil plantureuse vous accueille.
 Bienvenue au batiment Totem de la French Tech.
 Nous fournissons des accès à des ordinateurs, cela vous coutera un Cairn par recherche.
 
+Pour pouvoir rentrer, dit l'hotesse, il vous faut adhérer à notre association
+
+Vous voyez qu'il y a deux vigiles /
+
+
 
 Questions:
 
@@ -57,10 +62,15 @@ Questions:
 - Cancer Investissement
    Vous découvrez avec stupeur que Cancer Investissement est une filiale de Balance Sécurité.
 
-
  - l'actionnaire principal de Balance Sécurité est Michel Bon, beau père de Alain Carignon,
   de Michel Bon.
-- deux vigiles vous n'allez rien apprendre sur Balance Sécurité
+
+- deux vigiles sont là mais vous n'allez rien apprendre sur Balance Sécurité
+  * sont de gauche intérieurement
+  * ne connaissent pas leur employeur
+  * on peut les convaincre de changer de métier: à quoi bon travailler sans savoir pourquoi?
+  * fusil laser de chasse, difficulté 7, 3 dégats
+  PV 7
 
 - "Grenoble ville multiplan"
   Un projet de la municipalité Carignon qui serait de créer un portail vers le Monde de Droite de façon, en partenariat avec le CEA.
