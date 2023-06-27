@@ -1,3 +1,5 @@
+# 3 - Le totem
+
 Vous arrivez au batiment Totem.
 
 Une hotesse d'accueil plantureuse vous accueille.
@@ -64,6 +66,9 @@ Questions:
 
  - l'actionnaire principal de Balance Sécurité est Michel Bon, beau père de Alain Carignon,
   de Michel Bon.
+
+- quand est la pleine lune?
+  1er mai 2026
 
 - deux vigiles sont là mais vous n'allez rien apprendre sur Balance Sécurité
   * sont de gauche intérieurement

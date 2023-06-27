@@ -1,3 +1,5 @@
+# 11 - La Bobine
+
 En arrivant à la Bobine, vous constatez que le batiment est devenu un restaurant chic.
 
 Le serveur voudrait vous barrer le chemin. 
@@ -9,7 +11,7 @@ Vous pouvez acheter des produits francais:
   - des bières qui restaure 2 PV pour 1 cairn
 
 
-Vous réalisez que la vie mondaine de la bourgeaoisie bat son plein à Grenoble.
+Vous réalisez que la vie mondaine de la bourgeoisie bat son plein à Grenoble.
 Les riches propriétaire de Corenc mangent des huitres et de la tête de veau.
 
 - Au sous-sol, rien mais vous trouvez le numéro du postillon si pas trouvé.
@@ -38,6 +40,4 @@ Et un tag "grenoble ville mauvais plan"
       
       Le Postillon pense que François Jacq aurait recu de l'argent d'une boite nommé Cancer Investissement.
 
-(Note pour le MJ: en fait, non, mais il n'aura pas le temps de le dire aux joueurs vu qu'il meurt)
-
-(si les joueurs n'ont jamais croisé Popo, il peuvent la croiser en sortant, go Bastille)
+(Note pour le MJ: en fait, non, ce financement est une fausse piste, mais il n'aura pas le temps de le dire aux joueurs vu qu'il meurt)

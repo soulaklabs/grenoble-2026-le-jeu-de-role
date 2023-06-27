@@ -13,13 +13,20 @@ ACTIONS POSSIBLE
   * acheter une boisson: 1 cairn => une bière. Boire une bière restaure une capacité à fond. Mais il faut boire en vrai
 
   * parler au Barman:
-    - Je m'appelle Alex. j'ai ouvert ce bar il y a 15 ans. La ville a beaucoup changé. C'est un peu comme si tout le monde était devenu de droite petit à petit. Je ne l'explique pas.
+    - Je m'appelle Alex. j'ai ouvert ce bar il y a 15 ans. La ville a beaucoup changé. C'est un peu comme si tout le monde était devenu de droite petit à petit. Je ne l'explique pas vraiment.
+
+  * Vous pensez quoi de François Jacq?
+    Ben c'est l'élu de secteur 1. Mais ici c'est le secteur 2.
+    * si ils insistent
+      "Ecoutez je veux pas avoir des problèmes moi"
 
   * Internet? 
     => non, ca a été coupé en 2023 sur toute la ville. Un internet très limité est disponible.
+
   * autres bars?
-    Le Café du Weird, deux anciens bars qui ont fusionnés. Ils se sont aperçus qu'ils étaient déjà dans le même tunnerl.
-    Mais c'est un bar d'extrème droite maintenant. Je les connais pas.
+    Le Café du Weird, deux anciens bars qui ont fusionnés. Ils se sont aperçus qu'ils étaient déjà dans le même tunnels.
+    Attention c'est pas mal fréquenté par l'extrème droite maintenant. Enfin maintenant on dit juste "la droite". Je les connais plus très bien dans ce bar.
+
   * Bernard le thésard: c'était un bon client, mais il était plus souvent au Café du Weird.
     Il a du faire de drôle de rencontres là-bas.
 
@@ -28,6 +35,8 @@ ACTIONS POSSIBLE
 
     + article sur la main-mise de la municipalité sur les bars.
       D'après certaines sources, les bars et restaurants de la région doivent verser 1% de leur revenus sur un compte en Suisse appartenant à une société nommé Sagittaire Capital.
+
+      * si vous le montrez à Alex, il dit "1%? Ah bon. On change pas une équipe qui gagne!"
 
 
  => Premier matin

@@ -1,20 +1,28 @@
+# 16. Rencontre avec Popo
+
 Popo parle avec une voix modifiée par un autotune de conception étrangère.
 
+ * Si les aventuriers l'ont poursuivi
 
 Vous êtes les aventuriers ?
 
 Je vous cherchais.
-L'attentat n'est pas de notre fait. Mais de celui de la municipalité.
+L'attentat n'est pas de notre fait. C'est pas nous c'est eux.
+C'est la municipalité.
+
 Nous avons essayé de mettre la main sur la thèse de Bernard le Thésard, sans succès.
-Ce que nous voulions c'était ouvrir un portail vers le Monde de Gauche, ce qui permettrait de faire revenir les hippies à Grenoble.
+On s'intéresse beaucoup à la recherche.
+
+(secret: les Popoistes veulent ouvrir un portail vers le monde de Gauche pour faire revenir les hippies à Grenoble)
 
 Malheureusement, c'est l'équipe de Carignon qui l'a lu en premier.
-Alerté, Bernard le Thésard a voulu lire sa propre thèse pour vérifier qu'une application en était bien impossible !
+Alerté, Bernard le Thésard a voulu lire sa propre thèse pour vérifier qu'une application en était bien impossible ! En effet, il avait oublié cette période de sa vie.
 
-Notre groupuscule a bien acheté de la Chartreuse verte explosive mais c'était seulement pour la boire.
+Notre groupuscule a bien acheté de la Chartreuse verte explosive mais c'était seulement pour la boire. On est pas des dangereux.
 
 En bref on vous a embauché uniquement pour que vous soyez d'accord avec la version de la police.
-Vous valez mieux que ça.
+
+Vous valez mieux que ça. Vous devez nous aider à déjouer le projet "ville multiplan"!
 
 
 * Ou est Eric Piolle?

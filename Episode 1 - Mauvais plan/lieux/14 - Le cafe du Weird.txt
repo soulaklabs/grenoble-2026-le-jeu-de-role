@@ -1,4 +1,4 @@
-Le café du Weird
+# 14 Le café du Weird
 ===============
 
 Un bar d'extrème droite se présente devant vous.
@@ -7,14 +7,22 @@ De la musique répétitive de droite se répand sur vous.
  Achats:
    - Whisky 3 PV pour 3 Cairn
    - potion de droite pour 4 Cairn, elle vous permet de gagner un sort de droite au dessus d'un sort que vous avez déjà.
-   - épée décorative, rajoute un dégat a vos attaques (5 cairn)
+   - épée décorative, rajoute +1 dégat a vos attaques (5 cairn)
    - la tête de cerf est à vendre pour -4 Cairn. Effet inconnu. 
      Object maudit, vous ne pouvez plus courir et impossible de s'en débarasser car elle colle.
 
-Il n'y a personne mais vous pouvez parler au barman.
+Il n'y a personne mais vous pouvez parler au barman. Celui-ci dit un maximum de phrases toutes faites.
 
-  * Bernard le thésard: c'était un bon client, mais il était plus souvent au Docteur D.
-    Il a du faire de drôle de rencontres là-bas.
+  * "Il faut faire feu de tout bois"
+  * "Grenoble c'est Chicagre! haha"
+  * "A mendonné, il faut dire STOP."
+  * "Il faut remettre les pendules à leur place."
+  * "Par les temps qui courent, on est jamais trop prudent"
+  * "Maramé"
+  * "Moi je suis apolitique"
+  * (il est d'extrème droite si vous le sentez)
+  * Bernard le thésard: c'était un bon client, mais il était plus souvent à l'Ouest et au Docteur D.
+    Il a du faire de drôle de rencontres là-bas. Et je parle pas de leur bière pourrie.
 
 
-(si les joueurs n'ont jamais croisé Popo, il la croise en sortant)
+(si les joueurs n'ont jamais croisé Popo, il la croisent en sortant)

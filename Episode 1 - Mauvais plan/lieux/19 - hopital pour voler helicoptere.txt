@@ -1,8 +1,18 @@
+# 19 - Hopital hélicoptère 
+
 Vous vous rendez au CHU avec la ferme intention de voler l'hélicoptère.
 
-Le CHU jouxte maintenant une grande galerie commerciale ou les malades peuvent acheter des sodas et se restaurer.
+Le CHU jouxte maintenant une grande galerie commerciale ou les malades peuvent acheter des sodas et des burgers.
 
 L'hélicoptère est guardé par des soignants centristes, insensible à la magie.
 
 - compétence médicament niveau 17, dégat 2, 2 PV peut plus parler pendant la durée du combat
-- compétence bistouri niveau 12, dégat 3, 2 PV
+- compétence bistouri niveau 12, dégat 3, 2 PV, et tu prend une maladie:
+   1 => herpès
+   2 => syndrôme X => personne ne sait ce que c'est 
+   3 => tétanos
+   4 => COVID très léger, plus d'odorat
+   5,6 => rien, pas de maladie
+
+Au moment de rentrer dans l'hélicoptère, faites un jet d'intuition difficile. Si il réussit, vous voyez votre groupe venir vers vous à travail un portail temporel.
+"Attendez, ca ne sert à rien d'aller à Marrakech. Il n'y a rien là-bas. Vous allez perdre un temps précieux".

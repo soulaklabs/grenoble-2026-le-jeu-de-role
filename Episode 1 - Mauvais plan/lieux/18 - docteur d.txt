@@ -1,25 +1,25 @@
+# Docteur D
+
 Le docteur D est guardé par deux vigiles qui ne veulent pas vous laisser rentrer.
 Les deux vigiles Pipo et Ramollo sont dans un débat passioné sur la Nature et la Culture.
 
 "Ecoute pipo, on ne nait pas forcément méchant, mais on le devient."
-"Ecoute ramollo, les statistiques montrent que les gens sont méchant ès la naissance."
+"Ecoute ramollo, les statistiques montrent que les gens sont méchant dès la naissance."
 
 
 Ecoutez, sans mot de passe et avec votre allure
-- si vous avez l'air riche ou faite de bons arguments, vous passez
 - le mot de passe est "grenoble ville mauvais plan"
-- ou si vous avez l'accent
-
+- ou si vous avez l'accent du coin
+- ou si vous faites un argumentaire en faveur de la Nature ou de la Culture
 
  Une fois au bar, vous réalisez que la population est joyeuse et bigarrée, ce qui tranche un peu avec l'ambiance des autres endroits de la ville.
 Le bar est plein, ce qui vous étonne.
 
-
  * vous pouvez acheter des bières empoisonnées, qui font 3 PV de dégat avec un tour de retard, pour 1 cairn.
- * discuter barman. Jamais entendu parler de Bernard le Thésard. Il est mort ? Ah bon.
+ * Acheter IPA spéciale: 5 Cairn, donne un point de héros.
+ * Discuter barman. Jamais entendu parler de Bernard le Thésard. Il est mort ? Ah bon. Ben je vois pas de qui vous parlez.
 
 Vous restez quelques heures en buvant, puis il se passe un changement d'atmosphère. Vous remarquez que les gens vont dans le couloir mais ne ressortent pas des toilettes, si bien que le bar se vide.
-
 
 
   * si les joueurs ne vont pas aux toilettes, la police intervient et le barman leur dit de passer par une trappe au sol
@@ -41,9 +41,9 @@ Popo prend la parole:
 
   Nous avons toutes les raisons de penser que Carignon et son équipe veulent ouvrir un portail vers le Monde de la Droite. C'est le sens du slogan "Grenoble ville multiplan" ce à quoi nous opposont "Grenoble ville mauvais plan".
 
-  Ce plan de la municipalité, c'est le "plan Lesdiguières". Comme jadis Lesdiguières, Alain Carignon et sa techno-clique veulent prendre le contrôle définitif sur la ville en prenant la Bastille et en ouvrant
+  Ce plan de la municipalité, c'est le "plan Lesdiguières". Comme jadis Lesdiguières, Alain Carignon et sa techno-clique veulent prendre le contrôle définitif sur la ville en prenant la Bastille et en ouvrant un portail.
 
-  Or, nous savons que ce genre de portail se stabilise pendant la pleine lune, et la prochaine pleine lune... c'est ce soir !
+  Or, nous savons que ce genre de portail se stabilise pendant la pleine lune (ou bien le lendemain), et la prochaine pleine lune... c'est le 1er mai !
 
   Il nous faut attaquer.
 
@@ -52,10 +52,11 @@ Popo prend la parole:
 
 Le deuxième de liste reprend: 
 
-  Nous avons un plan pour s'introduire dans la Bastille qui est de continuer les effort de tunnels déjà entrepris. Mais comme nosu creusons à la main, ca prend des jours.
-  Nous sommes ouvert à tous autres plans pour s'introduire dans la bastille.
+  Nous avons un plan pour s'introduire dans la Bastille qui est de continuer les effort de tunnels déjà entrepris. Mais comme nous creusons à la main, ca prend des jours.
+  L'équipe Tunnel a décidé en conseil collégial de travailler plus fort.
+  Nous sommes ouvert à tous autres plans pour s'introduire dans la bastille. Si certains d'entre vous se sentent une âme d'aventurier, ils peuvent se rapprocher de l'équipe Fonctionnement.
 
-  Nous avons cette bombe de chartreuse verte indetéctable qu'il faudra placer en dessous du portail.
+  Nous avons cette bombe de chartreuse verte indetéctable qu'il faudra placer en dessous du portail. Ceci pour éviter une victoire définitive de l'extrème droite.
 
   Nos amis aventuriers nous ont rejoint. Tout le monde se tourne vers vous.
 

@@ -1,4 +1,4 @@
-# Bastille
+# 10. En base de la Bastille
 
 En arrivant à la Bastille. Vous constatez que les oeufs ont été démontés et le cable enlevé.
 
@@ -9,11 +9,23 @@ Malheureusement, en arrivant à la fontaine du lyon, vous ne pouvez que constate
 
 Il est impossible de passer.
 
+
+## Trouver caillou de scenarium
+
+Jet de perception.
+  * Si réussite: Vous trouvez un caillou de scenarium qui a une utilité inconnue.
+    * Si utilisé: il vous permet de refaire un personnage à n'importe quel moment et de jeter l'ancien (mais en gardant ses possessions).
+
+## Les tags
+
 Deux tags sont inscrits sur le mur, pendant que vous constatez qu'une silouhette gracile vous suit.
-Les tags sont inscrits dans la langue des tags.
+Les tags sont inscrits dans la langue secrète des tags.
+
+Jet de pertinence facile pour les déchiffrer.
 
 - le premier tag dit: "Grenoble ville mauvais plan"
-- le deuxième tag est une addresse, le 2 rue Pierre Duclot, 38000 Grenoble. Il s'agit de l'adresse du Docteur D.
+- le deuxième tag est une addresse, le 2 rue Pierre Duclot, 38000 Grenoble. Il s'agit de l'adresse du bar nommé Docteur D.
 
+En fait, vous êtes toujours suivis.
 
-Interactions avec la silouhette gracile: il s'agit de Popo => popo.txt
+ * Interactions avec la silouhette gracile: il s'agit de Popo => popo.txt
