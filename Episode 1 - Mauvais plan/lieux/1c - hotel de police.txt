@@ -1,0 +1,26 @@
+# 1c Hotel de Police
+
+(des joueurs ont eu l'idée d'aller se rendre à la police directement, ce qui contredit leur)
+
+Vous décidez de rendre une petite visite à l'hotel de police.
+
+Ce qui vous frappe, c'est déjà que c'est la même décoration qu'à l'Hotel de Ville. 
+Ecrit en gros dans les bureaux: ICI C'EST GRENOBLE.
+
+
+
+Vous êtes acceuilli par une policière.
+"Vous venez déposer plainte? C'est uniquement de 15h à 15h45 le samedi."
+
+La policière doit les dissuader d'enquêter sur cette affaire "professionelle".
+
+
+
+En cas de combat avec la policière.
+  PV 5, Tonfa électrique qui rend inanimé, niveau 15 et 3 dégats.
+
+
+- Question: "vous travaillez pour la mairie?"
+- On a de très bonne relations avec chacun des secteurs. 
+  Ben oui on est sous l'autorité de la mairie!
+  

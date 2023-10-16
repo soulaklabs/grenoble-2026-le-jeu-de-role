@@ -1,0 +1,36 @@
+# 13 Le monde du scenarium
+===============
+
+(si les joueurs utilisent la pierre noire trouvée prés du mur en scenarium)
+
+Vous regardez la pierre noire de scenarium.
+Elle ne reflète pas du tout ce qui est autour. C'est la pierre la plus noire que vous ayez jamais contemplé.
+Elle semble vouloir vous absorber.
+
+Est-ce que quelqu'un décide d'utiliser la pierre?
+Les joueurs doivent décider si ils le tentent, et qui va partir.
+On ne peut pas le faire en groupe.
+
+
+- si Oui:
+  Vous plongez votre regard dans la pierre de scenarium.
+  Le monde extérieur semble se dissoudre autour de vous.
+  Puis une lumière s'allume et vous vous trouvez dans une pièce.
+  Vous avez la nette impression d'avoir changé de monde.
+
+  La pièce contient (NOMBRE de JOUEURS, pas compter le MJ) personnes et une des personnes tiens un cahier noir (c'est le cahier du MJ).
+  (en fait le joueur est téléporté dans la pièce ou jouent les joueurs. il peut faire n'importe quoi dans le vrai grenoble potentiellement, mais sera rappelé dès que le cahier noir)
+
+  Les gens sont figés dans une pose immuable. Personne ne bouge. La porte extérieur ne s'ouvre pas.
+
+- si il ouvre le cahier.
+  Vous avez un fort sentiment de ne pas pouvoir faire ça.
+  Pendant 2dés 20 secondes, vous pouvez regarder et même écrire sur le cahier, mais sans pouvoir parler aux autres.
+Le MJ devra tenir compte de ce qui est écrit.
+
+
+Rappel:
+  Vous posez les yeux sur la couverture du cahier qui est d'un noir profond.
+  Le monde extérieur semble se dissoudre autour de vous. Vous vous sentez comme rappelé.
+  Vous vous retrouvez dans Grenoble 2026.
+
