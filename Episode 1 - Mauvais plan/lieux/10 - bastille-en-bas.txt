@@ -14,7 +14,7 @@ Il est impossible de passer.
 
 Jet de perception.
   * Si réussite: Vous trouvez un caillou de scenarium qui a une utilité inconnue.
-    * Si utilisé: il vous permet de refaire un personnage à n'importe quel moment et de jeter l'ancien (mais en gardant ses possessions).
+    * Si utilisé: aller au numéro 13.
 
 ## Les tags
 
